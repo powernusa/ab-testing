@@ -3,6 +3,7 @@ practice*.ipynb
 
 # Ignore
 temp*
+my_*
 
 # Python
 __pycache__/
