@@ -1,0 +1,20 @@
+version: "3.9"
+
+services:
+  ab_testing:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ab_testing_container
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: >
+      jupyter notebook
+      --ip=0.0.0.0
+      --port=8888
+      --no-browser
+      --allow-root
