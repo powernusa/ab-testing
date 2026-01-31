@@ -1,7 +1,7 @@
 # 📈 A/B Testing Analysis — Conversion Rate Experiment
 
 > **Status:** Work in progress — actively updating as I build my data analysis & data intelligence portfolio.  
-> **Target completion:** 31st January 2026.
+> **Target completion:** 5th Feb 2026.
 
 This repository contains an end-to-end **A/B testing analysis**, covering:
 
@@ -15,6 +15,8 @@ This repository contains an end-to-end **A/B testing analysis**, covering:
 The goal is to demonstrate a **professional-grade A/B testing workflow**, similar to what mid-tier data analysts, product analysts, and growth analysts perform at product-driven companies.
 
 More updates coming soon.
+
+<a href="https://mydataaijournal.com/ab-testing/">Link to project</a>
 
 ---
 
